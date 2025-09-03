@@ -1,3 +1,6 @@
+#Make sure to install pip install tuya-iot-py-sdk 
+# Check the ReadMe FILE 
+
 from tuya_connector import TuyaOpenAPI, TUYA_LOGGER
 
 # Your Tuya credentials
