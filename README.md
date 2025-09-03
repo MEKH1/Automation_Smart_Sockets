@@ -1,5 +1,5 @@
 
-Smart Life = Tuya Cloud = Tuya API
+## Smart Life = Tuya Cloud = Tuya API
 
 You can control your smart sockets using Tuya's cloud API or local API (local API is trickier and needs more setup).
 
